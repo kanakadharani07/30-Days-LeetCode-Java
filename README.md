@@ -13,6 +13,8 @@ The goal is to stay consistent and strengthen my Data Structures & Algorithms sk
 | Day | Problem | Difficulty |
 |----|--------|-----------|
 | 1 | Move Zeroes | Easy |
+| 2 | Two Sum | Easy |
+
 
 ## Tech Stack
 - Java
