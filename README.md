@@ -9,11 +9,12 @@ The goal is to stay consistent and strengthen my Data Structures & Algorithms sk
 - Maintain a 30-day streak
 
 ## Progress Tracker
-
 | Day | Problem | Difficulty |
-|----|--------|-----------|
+|----|-------------------------------|------------|
 | 1 | Move Zeroes | Easy |
 | 2 | Two Sum | Easy |
+| 3 | Max Consecutive Ones | Easy |
+| 4 | Remove Duplicates from Sorted Array | Easy |
 
 
 ## Tech Stack
