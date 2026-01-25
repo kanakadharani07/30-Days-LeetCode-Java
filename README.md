@@ -15,6 +15,7 @@ The goal is to stay consistent and strengthen my Data Structures & Algorithms sk
 | 2 | Two Sum | Easy |
 | 3 | Max Consecutive Ones | Easy |
 | 4 | Remove Duplicates from Sorted Array | Easy |
+| 5 | Merge Sorted Array| Easy |
 
 
 ## Tech Stack
